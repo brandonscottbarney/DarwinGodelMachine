@@ -1,5 +1,5 @@
 <h1 align="center">
-     My first effort to implement open ended self improving agents was at the Open Source AGI hackathon at the AGI House after the Democratize Intelligence conference on June 28, 2025.
+     A first effort to implement open ended self improving agents was at the Open Source AGI hackathon at the AGI House after the Democratize Intelligence conference on June 28, 2025 with Will Schultz of AW3.
 </h1>
 
 
