@@ -1,4 +1,9 @@
 <h1 align="center">
+     My first effort to implement open ended self improving agents was at the Open Source AGI hackathon at the AGI House after the Democratize Intelligence conference on June 28, 2025.
+</h1>
+
+
+<h1 align="center">
     Darwin Gödel Machine:<br/>Open-Ended Evolution of Self-Improving Agents
 </h1>
 
@@ -80,7 +85,10 @@ By default, outputs will be saved in the `output_dgm/` directory.
 - `coding_agent.py` main implementation of the initial coding agent
 - `DGM_outer.py` entry point for running the DGM algorithm
 
-## Logs from Experiments
+## Logs from My Experiments At the [Open Source AGI House Hackathon](https://demi.network)
+[My experimental logs are in my google drive folder] (https://drive.google.com/drive/folders/1DHSAmKBAl60AuZTrtKFKzSnpHnXlMzcl?usp=sharing) contains all the output logs from the experiments from the Open Source AGI hackathon at AGI House SF.  I attempted to replicate [Darwin Gödel Machine:
+Open-Ended Evolution of Self-Improving Agents] (https://arxiv.org/pdf/2505.22954)
+
 This [google drive folder](https://drive.google.com/drive/folders/1Kcu9TbIa9Z50pJ7S6hH9omzzD1pxIYZC?usp=sharing) contains all the foundation model output logs from the experiments shown in the paper.
 
 ## Safety Consideration
